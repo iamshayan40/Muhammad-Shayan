@@ -1,4 +1,7 @@
 # 💫 About Me:
+<h1 align="center">Hello, My Name Is Muhammad Shayan</h1>
+<hr>
+<h2 align="center">I'm a Passionate Next.js Developer</h2>
 🔭 I’m actively learning and developing with Next.js and React.js, focusing primarily on frontend development.  
 👯 I’m excited to collaborate on full-stack applications using Next.js or React, eager to seize opportunities for skill enhancement.  
 🌱 Currently, I’m diving into generative AI and cloud engineering, specifically creating custom GPTs and exploring React Native.  
@@ -31,7 +34,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=iamshayan40&theme=aura&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamshayan40&theme=aura&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshayan40&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=iamshayan40&icon=0&color=0)](https://visitcount.itsvg.in)
-
