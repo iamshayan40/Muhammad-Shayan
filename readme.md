@@ -1,7 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hello, My Name Is Muhammad Shayan</h1>
-<hr>
-<h2 align="center">I'm a Passionate Next.js Developer</h2>
+<h1 align="center">Hello, My Name Is Muhammad Shayan :)</h1>
+<h2 align="center">I'm a Passionate Next.js Developer.</h2>
 🔭 I’m actively learning and developing with Next.js and React.js, focusing primarily on frontend development.  
 👯 I’m excited to collaborate on full-stack applications using Next.js or React, eager to seize opportunities for skill enhancement.  
 🌱 Currently, I’m diving into generative AI and cloud engineering, specifically creating custom GPTs and exploring React Native.  
